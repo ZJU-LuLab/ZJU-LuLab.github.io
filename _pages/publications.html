@@ -10,7 +10,7 @@ You can also find my articles on
 </p>
 
 <p>
-(^ indicates the co-first author and # indicates the corresponding author)
+(# indicates the co-first author and * indicates the corresponding author)
 </p>
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
@@ -37,10 +37,7 @@ You can also find my articles on
 {{ pub.authors }}. {{ pub_year }}.
 {{ pub.title }}.
 {% if pub.paperurl %}
-<a href="{{ pub.paperurl }}"><em>{{ pub.venue }}</em></a>.
-{% else %}
-<em>{{ pub.venue }}</em>.
-{% endif %}
+<a href="{{ pub.paperurl }}"><em>{{ pub.venue }}</em></a>{% else %}<em>{{ pub.venue }}</em>{% endif %}{% if pub.volume %}, <strong>{{ pub.volume }}</strong>{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.
 </p>
 
 {% endfor %}
