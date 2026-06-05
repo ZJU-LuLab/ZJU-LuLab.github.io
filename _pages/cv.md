@@ -16,20 +16,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.07-Present: Postdoctoral Researcher
+  * Stanford University
+  * Supervisor: Professor Ruike Renee Zhao
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020.07-2022.06: Postdoctoral Researcher
+  * Peking University
+  * Supervisor: Professor Huiling Duan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017.09-2019.08: Visiting Ph.D. Student
+  * University of Alberta
+  * Supervisor: Professor Chong-Qing Ru
   
 Skills
 ======
