@@ -19,7 +19,7 @@ You can also find my articles on [Google Scholar](你的GoogleScholar链接).
     {% assign current_year = pub_year %}
   {% endif %}
 
-- {{ pub.authors }}. {{ pub_year }}. {{ pub.title }}. *{{ pub.venue }}*. {% if pub.paperurl %}[Link]({{ pub.paperurl }}){% endif %}
+- {{ pub.authors }}. {{ pub_year }}. {{ pub.title }}. {% if pub.paperurl %}[*{{ pub.venue }}*]({{ pub.paperurl }}).{% else %}*{{ pub.venue }}*.{% endif %}
 
 {% endfor %}
 
