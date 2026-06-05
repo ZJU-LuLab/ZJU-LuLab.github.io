@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 2014.09-2019.12: Ph.D in Solid Mechanics
-  * Shanghai Institute of Applied Mathematics and Mechanics, School of Mechanics and Engineering Science, Shanghai University, China
-  * Supervisor: Professor Xingming Guo
-* 2010.09-2014.06 B.S. in Engineering Mechanics,
-  * School of Mechanical Engineering and Mechanics, Ningbo University, China
+
 
 Work experience
 ======
@@ -27,9 +21,18 @@ Work experience
   * School of Mechanics and Engineering Science, Peking University, China
   * Supervisor: Professor Huiling Duan
 
+Education
+======
+* 2014.09-2019.12: Ph.D in Solid Mechanics
+  * School of Mechanics and Engineering Science, Shanghai University, China
+  * Supervisor: Professor Xingming Guo
+
 * 2017.09-2019.08: Visiting Ph.D. Student
   * Department of Mechanical Engineering, University of Alberta, Canada
   * Supervisor: Professor Chong-Qing Ru
+  
+* 2010.09-2014.06: B.S. in Engineering Mechanics
+  * School of Mechanical Engineering and Mechanics, Ningbo University, China
 
 Honors and Awards
 ======
