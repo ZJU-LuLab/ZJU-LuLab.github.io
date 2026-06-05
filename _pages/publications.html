@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=0wrd3w8AAAAJ&hl=en).
+You can also find my articles on <a https://scholar.google.com/citations?user=0wrd3w8AAAAJ&hl=en a>.
 
 (^ indicates the co-first author and # indicates the corresponding author)
 
@@ -13,15 +13,29 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 {% assign current_year = "" %}
 
 {% for pub in pubs %}
-  {% assign pub_year = pub.year | default: pub.date | date: "%Y" %}
+
+  {% if pub.year %}
+    {% assign pub_year = pub.year %}
+  {% else %}
+    {% assign pub_year = pub.date | date: "%Y" %}
+  {% endif %}
 
   {% if pub_year != current_year %}
-## {{ pub_year }}
+<h2>{{ pub_year }}</h2>
     {% assign current_year = pub_year %}
   {% endif %}
 
   {% assign pub_number = total_pubs | minus: forloop.index0 %}
 
-**[{{ pub_number }}]** {{ pub.authors }}. {{ pub_year }}. {{ pub.title }}. {% if pub.paperurl %}[*{{ pub.venue }}*]({{ pub.paperurl }}).{% else %}*{{ pub.venue }}*.{% endif %}
+<p>
+<strong>[{{ pub_number }}]</strong>
+{{ pub.authors }}. {{ pub_year }}.
+{{ pub.title }}.
+{% if pub.paperurl %}
+<a href="{{ pub.paperurl }}"><em>{{ pub.venue }}</em></a>.
+{% else %}
+<em>{{ pub.venue }}</em>.
+{% endif %}
+</p>
 
 {% endfor %}
