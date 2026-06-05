@@ -1,14 +1,12 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+{% include base_path %}
 
-1. **Lu Lu**, Sophie Leanza.  
-   *Mechanical instabilities: from failure mechanism to functionality.*  
-   **Applied Mechanics Reviews**, 78(3), 030801, 2026.  
-   [DOI](https://doi.org/10.1115/1.4069259)
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
