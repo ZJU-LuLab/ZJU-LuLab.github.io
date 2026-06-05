@@ -4,9 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+You can also find my articles on [Google Scholar](你的GoogleScholar链接).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+(^ indicates the co-first author and # indicates the corresponding author)
+
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign current_year = "" %}
+
+{% for pub in pubs %}
+  {% assign pub_year = pub.year | default: pub.date | date: "%Y" %}
+
+  {% if pub_year != current_year %}
+## {{ pub_year }}
+    {% assign current_year = pub_year %}
+  {% endif %}
+
+- {{ pub.authors }}. {{ pub_year }}. {{ pub.title }}. *{{ pub.venue }}*. {% if pub.paperurl %}[Link]({{ pub.paperurl }}){% endif %}
+
 {% endfor %}
 
