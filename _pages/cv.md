@@ -11,50 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Solid Mechanics, Shanghai University, 2019
-* B.S. in Engineering Mechanics, Ningbo University, 2014
+* 2014.09-2019.12: Ph.D in Solid Mechanics
+  * Shanghai Institute of Applied Mathematics and Mechanics, School of Mechanics and Engineering Science, Shanghai University, China
+  * Supervisor: Professor Xingming Guo
+* 2010.09-2014.06 B.S. in Engineering Mechanics,
+  * School of Mechanical Engineering and Mechanics, Ningbo University, China
 
 Work experience
 ======
 * 2022.07-Present: Postdoctoral Researcher
-  * Stanford University
+  * Department of Mechanical Engineering, Stanford University, United States
   * Supervisor: Professor Ruike Renee Zhao
 
 * 2020.07-2022.06: Postdoctoral Researcher
-  * Peking University
+  * School of Mechanics and Engineering Science, Peking University, China
   * Supervisor: Professor Huiling Duan
 
 * 2017.09-2019.08: Visiting Ph.D. Student
-  * University of Alberta
+  * Department of Mechanical Engineering, University of Alberta, Canada
   * Supervisor: Professor Chong-Qing Ru
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Honors and Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2024 ASME Melville Medal (highest ASME honor for the best original paper), American Society of Mechanical Engineers
+* 2020 Peking University Boya Postdoctoral Fellowship, Peking University
+* 2020 Excellent Doctoral Dissertation, Shanghai University
+* 2019 Outstanding Mechanics Student, Shanghai Society of Mechanics
+* 2017 National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Nature Communications, Materials Today, International Journal of Mechanical Sciences, International Journal of Solids and Structures, Thin-Walled Structures, Engineering Structures, International Journal of Non-linear Mechanics, International Journal of Robotics Research, Journal of Applied Mechanics-ASME, Applied Mathematics and Mechanics-English Edition, Acta Mechanica, Applied Mathematical Modelling, European Journal of Mechanics / A Solids.
