@@ -9,6 +9,7 @@ You can also find my articles on [Google Scholar](你的GoogleScholar链接).
 (^ indicates the co-first author and # indicates the corresponding author)
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign total_pubs = pubs | size %}
 {% assign current_year = "" %}
 
 {% for pub in pubs %}
@@ -19,7 +20,8 @@ You can also find my articles on [Google Scholar](你的GoogleScholar链接).
     {% assign current_year = pub_year %}
   {% endif %}
 
-- {{ pub.authors }}. {{ pub_year }}. {{ pub.title }}. {% if pub.paperurl %}[*{{ pub.venue }}*]({{ pub.paperurl }}).{% else %}*{{ pub.venue }}*.{% endif %}
+  {% assign pub_number = total_pubs | minus: forloop.index0 %}
+
+**[{{ pub_number }}]** {{ pub.authors }}. {{ pub_year }}. {{ pub.title }}. {% if pub.paperurl %}[*{{ pub.venue }}*]({{ pub.paperurl }}).{% else %}*{{ pub.venue }}*.{% endif %}
 
 {% endfor %}
-
