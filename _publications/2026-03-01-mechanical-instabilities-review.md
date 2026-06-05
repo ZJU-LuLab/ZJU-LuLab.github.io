@@ -6,7 +6,7 @@ category: journal-articles
 date: 2026-03-01
 venue: "Applied Mechanics Reviews"
 paperurl: "https://doi.org/10.1115/1.4069259"
-authors: "Lu Lu, Sophie Leanza, Ruike Renee Zhao"
+authors: "<strong>Lu Lu</strong>, Sophie Leanza, Ruike Renee Zhao"
 year: 2026
 ---
 
