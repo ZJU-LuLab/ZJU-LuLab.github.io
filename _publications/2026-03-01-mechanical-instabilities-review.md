@@ -1,5 +1,5 @@
 ---
-title: "Mechanical instabilities: from failure mechanism to functionality"
+title: "Mechanical instabilities: From failure mechanism to functionality"
 collection: publications
 permalink: /publication/mechanical-instabilities-review
 category: journal-articles
