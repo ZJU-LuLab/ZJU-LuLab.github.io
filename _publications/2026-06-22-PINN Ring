@@ -3,10 +3,10 @@ title: "Physics-informed neural network-enabled forward prediction and inverse d
 collection: publications
 permalink: /publication/PINN-ring-inverse-design
 category: journal-articles
-date: 2026-06-04
+date: 2026-06-22
 year: 2026
 venue: "Advanced Science"
-status: "Accepted"
-volume: "In Press"
+pages: "e76194"
+paperurl: "https://doi.org/10.1002/advs.76194"
 authors: "Luyuan Ning#, <strong>Lu Lu</strong>#, Sophie Leanza, Ruike Renee Zhao*"
 ---
