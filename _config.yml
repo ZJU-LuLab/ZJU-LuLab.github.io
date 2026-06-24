@@ -23,7 +23,7 @@ repository               : "ZJU-LuLab/ZJU-LuLab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lulu.jpg"
   name             : "Dr. Lu Lu"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Engineering Mechanics at Zhejiang University"
