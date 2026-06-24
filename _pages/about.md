@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ Dr. Lu Lu is currently an Assistant Professor in the Department of Engineering M
 
 His research focuses on solid mechanics, with an emphasis on mechanical instabilities, shape-morphing structures, and intelligent soft materials. By combining theoretical modeling, numerical simulations, and experiments, he seeks to understand nonlinear deformation, instability, and shape transformation in slender elastic structures, stimuli-responsive soft materials, and reconfigurable mechanical systems. His work has been published in journals such as *PNAS*, *Science Advances*, *Journal of the Mechanics and Physics of Solids*, *Advanced Materials*, *Applied Mechanics Reviews*, and *International Journal of Solids and Structures*. He received the ASME Melville Medal in 2024.
 
-## Research Interests
+# Research Interests
 
 - Mechanical instabilities, including buckling, post-buckling, and snap-buckling
 - Intelligent soft materials, including magnetic soft materials, shape memory polymers, and liquid crystal elastomers 
