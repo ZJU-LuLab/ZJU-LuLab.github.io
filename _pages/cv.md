@@ -12,7 +12,6 @@ redirect_from:
 
 
 ## Work Experience
-======
 * 2026.07-Present: Assistant Professor 
   * Department of Engineering Mechanics, Zhejiang University, China
   * 
@@ -25,7 +24,6 @@ redirect_from:
   * Supervisor: Professor Huiling Duan
 
 ## Education
-======
 * 2014.09-2019.12: Ph.D in Solid Mechanics
   * School of Mechanics and Engineering Science, Shanghai University, China
   * Supervisor: Professor Xingming Guo
@@ -38,7 +36,6 @@ redirect_from:
   * School of Mechanical Engineering and Mechanics, Ningbo University, China
 
 ## Honors and Awards
-======
 * 2024 ASME Melville Medal (highest ASME honor for the best original paper), American Society of Mechanical Engineers
 * 2020 Peking University Boya Postdoctoral Fellowship, Peking University
 * 2020 Excellent Doctoral Dissertation, Shanghai University
@@ -46,5 +43,4 @@ redirect_from:
 * 2017 National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China
   
 ## Service and Leadership
-======
 * Reviewer for Nature Communications, Materials Today, International Journal of Mechanical Sciences, International Journal of Solids and Structures, Thin-Walled Structures, Engineering Structures, International Journal of Non-linear Mechanics, International Journal of Robotics Research, Journal of Applied Mechanics-ASME, Applied Mathematics and Mechanics-English Edition, Acta Mechanica, Applied Mathematical Modelling, European Journal of Mechanics / A Solids.
