@@ -51,3 +51,4 @@ Intelligent soft materials are a class of stimuli-responsive materials capable o
 
 * **Lu Lu**, Shuai Wu, Ruike Renee Zhao*. 2024. Mechanics of magnetic-shape memory polymers. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2024.105742), 190, 105742
 * **Lu Lu**, Jay Sim, Ruike Renee Zhao*. 2024. Mechanics of hard-magnetic soft materials: A review. [*Mechanics of Materials*](https://doi.org/10.1016/j.mechmat.2023.104874), 189, 104874.
+* Jay Sim, **Lu Lu**, Ruike Renee Zhao*. 2026. Electromagnetic (EM)‐driven functional materials. [*Advanced Materials*](https://doi.org/10.1002/adma.202521268), 38(11), e21268.
