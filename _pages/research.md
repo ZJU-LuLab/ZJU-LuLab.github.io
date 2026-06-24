@@ -19,6 +19,9 @@ Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understa
 
 * **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao. 2024. *Multistability of segmented rings by programming natural curvature*. Proceedings of the National Academy of Science, 121(31), e2405744121.
 * **Lu Lu**, Jize Dai, Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson. 2023. *Multiple equilibrium states of a curved-sided hexagram: Part I-Stability of states*. Journal of the Mechanics and Physics of Solids, 180, 105406.
+* **Lu Lu**, Sophie Leanza, Yang Liu, Ruike Renee Zhao*. 2025. *Buckling and post-buckling of cylindrical shells under combined torsional and axial loads*. European Journal of Mechanics-A/Solids, 112, 105653.
+* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2026. *Mechanical instabilities: From failure mechanism to functionality*. Applied Mechanics Reviews, 78(3), 030801.
+* Sophie Leanza#, Jeseung Lee#, **Lu Lu**, Ruike Renee Zhao*. 2026. *Elastic rod origami (RodOri) for programming static and dynamic mechanical properties*. Science Advances, 12(19), aed1774.
 
 ---
 
@@ -26,22 +29,25 @@ Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understa
 
 <img src="/images/research/shape-morphing-structures.jpg" alt="Shape-morphing structures" style="width:100%; max-width:700px;">
 
-Shape-morphing structures offer promising platforms for deployable aerospace systems, multimodal soft robots, and programmable metamaterials with tunable properties because of their ability to change shape and size in response to external stimuli. This research topic develops instability-guided design strategies that harness snap-buckling instabilities to realize diverse and programmable shape transformations, including 2D-to-1D transformation of curved-sided hexagrams, 2D-to-2D transformation of segmented rings with in-plane natural curvature, and 2D-to-3D transformation of polygonal rings with out-of-plane natural curvature. By uncovering the underlying transformation mechanisms, this work provides design principles for robust and programmable shape-morphing structures.
+Shape-morphing structures have attracted extensive attention for a wide range of engineering applications, including deployable aerospace systems, multimodal soft robots, and property programmable metamaterials, owing to their ability to change shape and size in response to external stimuli. This research topic aims to develop instability-guided design strategies, with an emphasis on snap-buckling instability, to realize diverse and programmable shape transformations such as 2D-to-1D transformation of curved-sided hexagrams, 2D-to-2D transformation of segmented rings with in-plane natural curvature, and 2D-to-3D transformation of polygonal rings with out-of-plane natural curvature. We also seek to uncover the underlying transformation mechanisms to guide the rational design of shape-morphing structures.
 
 **Representative publications**
 
-* **Lu Lu**, Author B, Author C. *Paper title related to curved ring origami*. Journal Name, Year.
-* **Lu Lu**, Author B, Author C. *Paper title related to segmented rings or shape morphing*. Journal Name, Year.
-
+* **Lu Lu**#, Sophie Leanza#, Jize Dai#, Xiaohao Sun, Ruike Renee Zhao*. 2023. *Easy snap-folding of hexagonal ring origami by geometric modifications*. Journal of the Mechanics and Physics of Solids, 171, 105142.
+* **Lu Lu**, Jize Dai, Sophie Leanza, John W. Hutchinson, Ruike Renee Zhao*. 2023. *Multiple equilibrium states of a curved-sided hexagram: Part II-Transitions between states*. Journal of the Mechanics and Physics of Solids, 180, 105407.
+* **Lu Lu**, Sophie Leanza, Luyuan Ning, Ruike Renee Zhao*. 2026. *2D-to-3D transformation of ring origami via snap-folding instabilities*. Journal of the Mechanics and Physics of Solids, 206, 106404.
+* Luyuan Ning#, **Lu Lu**#, Sophie Leanza, Ruike Renee Zhao*. 2026. *Physics-informed neural network-enabled forward prediction and inverse design of ring origami*. Advanced Science, e76194.
+* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2023. *Origami with rotational symmetry: A review on their mechanics and design*. Applied Mechanics Reviews, 75(5), 050801.
+  
 ---
 
 ## Multiphysics-Coupled Large Deformation of Intelligent Soft Materials
 
 <img src="/images/research/intelligent-soft-materials.jpg" alt="Intelligent soft materials" style="width:100%; max-width:700px;">
 
-Intelligent soft materials are a class of stimuli-responsive materials capable of sensing and responding to external stimuli through large, reversible, and programmable deformation, making them promising candidates for soft robotics, flexible electronics, and active metamaterials. This research topic aims to investigate the multiphysics-coupled responses and large-deformation behaviors of intelligent soft materials, including magnetic soft materials, liquid crystal elastomers, and shape memory polymers, under mechanical loading, thermal stimuli, and magnetic fields.
+Intelligent soft materials are a class of stimuli-responsive materials capable of sensing and responding to external fields through large, reversible, and programmable deformation, making them promising candidates for soft robotics, flexible electronics, and active metamaterials. This research topic aims to investigate the multiphysics-coupled responses and large-deformation behaviors of intelligent soft materials, including magnetic soft materials, liquid crystal elastomers, and shape memory polymers, with a focus on their nonlinear deformation, instability, and shape transformation under mechanical loading, thermal stimuli, and magnetic fields. 
 
 **Representative publications**
 
-* **Lu Lu**, Author B, Author C. *Paper title related to intelligent soft materials*. Journal Name, Year.
-* **Lu Lu**, Author B, Author C. *Paper title related to magnetic soft materials or LCEs*. Journal Name, Year.
+* **Lu Lu**, Shuai Wu, Ruike Renee Zhao*. 2024. *Mechanics of magnetic-shape memory polymers*. Journal of the Mechanics and Physics of Solids, 190, 105742
+* **Lu Lu**, Jay Sim, Ruike Renee Zhao*. 2024. *Mechanics of hard-magnetic soft materials: A review*. Mechanics of Materials, 189, 104874.
