@@ -11,7 +11,7 @@ Our research combines theoretical modeling, numerical simulation, and experiment
 
 ## Nonlinear Instabilities of Slender Elastic Structures
 
-<img src="/images/research/Figure1.jpg" alt="Slender elastic structures" style="width:100%; max-width:700px;">
+<img src="/images/research/slender-instabilities.jpg" alt="Slender elastic structures" style="width:100%; max-width:700px;">
 
 Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understanding the underlying mechanics of these behaviors is critical not only for predicting structural instability, but also for harnessing instabilities to achieve multifunctional structural design. This research topic aims to investigate nonlinear instabilities in various slender elastic structures such as rods, rings, plates, and shells. Selected topics include elastic stability of segmented rings with natural curvature (e.g., curved-sided hexagonal rings and polygonal rings), twisting bifurcation of elastic rods, and buckling and post-buckling of cylindrical shells.
 
