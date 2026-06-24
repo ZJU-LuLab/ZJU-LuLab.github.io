@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Our research combines theoretical modeling, numerical simulation, and experiments to understand the nonlinear deformation, instability, and shape transformation in slender structures, soft materials, and reconfigurable mechanical systems. Selected topics include: 
+Our research combines theoretical modeling, numerical simulation, and experiments to understand the nonlinear deformation, instability, and shape transformation in slender structures, soft materials, and reconfigurable mechanical systems.
 
 ---
 
@@ -17,11 +17,11 @@ Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understa
 
 **Representative publications**
 
-* **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao*. 2024. Multistability of segmented rings by programming natural curvature. [***Proceedings of the National Academy of Science***](https://doi.org/10.1073/pnas.2405744121), 121(31), e2405744121.
-* **Lu Lu**, Jize Dai, Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson*. 2023. Multiple equilibrium states of a curved-sided hexagram: Part I-Stability of states. [***Journal of the Mechanics and Physics of Solids***](https://doi.org/10.1016/j.jmps.2023.105406), 180, 105406.
-* **Lu Lu**, Sophie Leanza, Yang Liu, Ruike Renee Zhao*. 2025. Buckling and post-buckling of cylindrical shells under combined torsional and axial loads. [***European Journal of Mechanics-A/Solids***](https://doi.org/10.1016/j.euromechsol.2025.105653), 112, 105653.
-* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2026. Mechanical instabilities: From failure mechanism to functionality. [***Applied Mechanics Reviews***](https://doi.org/10.1115/1.4069259), 78(3), 030801.
-* Sophie Leanza#, Jeseung Lee#, **Lu Lu**, Ruike Renee Zhao*. 2026. Elastic rod origami (RodOri) for programming static and dynamic mechanical properties. [***Science Advances***](https://doi.org/10.1126/sciadv.aed1774), 12(19), aed1774.
+* **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao*. 2024. Multistability of segmented rings by programming natural curvature. [*Proceedings of the National Academy of Science*](https://doi.org/10.1073/pnas.2405744121), 121(31), e2405744121.
+* **Lu Lu**, Jize Dai, Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson*. 2023. Multiple equilibrium states of a curved-sided hexagram: Part I-Stability of states. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2023.105406), 180, 105406.
+* **Lu Lu**, Sophie Leanza, Yang Liu, Ruike Renee Zhao*. 2025. Buckling and post-buckling of cylindrical shells under combined torsional and axial loads. [*European Journal of Mechanics-A/Solids*](https://doi.org/10.1016/j.euromechsol.2025.105653), 112, 105653.
+* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2026. Mechanical instabilities: From failure mechanism to functionality. [*Applied Mechanics Reviews*](https://doi.org/10.1115/1.4069259), 78(3), 030801.
+* Sophie Leanza#, Jeseung Lee#, **Lu Lu**, Ruike Renee Zhao*. 2026. Elastic rod origami (RodOri) for programming static and dynamic mechanical properties. [*Science Advances*](https://doi.org/10.1126/sciadv.aed1774), 12(19), aed1774.
 
 ---
 
@@ -33,11 +33,11 @@ Shape-morphing structures have attracted extensive attention for a wide range of
 
 **Representative publications**
 
-* **Lu Lu**#, Sophie Leanza#, Jize Dai#, Xiaohao Sun, Ruike Renee Zhao*. 2023. *Easy snap-folding of hexagonal ring origami by geometric modifications*. Journal of the Mechanics and Physics of Solids, 171, 105142.
-* **Lu Lu**, Jize Dai, Sophie Leanza, John W. Hutchinson, Ruike Renee Zhao*. 2023. *Multiple equilibrium states of a curved-sided hexagram: Part II-Transitions between states*. Journal of the Mechanics and Physics of Solids, 180, 105407.
-* **Lu Lu**, Sophie Leanza, Luyuan Ning, Ruike Renee Zhao*. 2026. *2D-to-3D transformation of ring origami via snap-folding instabilities*. Journal of the Mechanics and Physics of Solids, 206, 106404.
-* Luyuan Ning#, **Lu Lu**#, Sophie Leanza, Ruike Renee Zhao*. 2026. *Physics-informed neural network-enabled forward prediction and inverse design of ring origami*. Advanced Science, e76194.
-* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2023. *Origami with rotational symmetry: A review on their mechanics and design*. Applied Mechanics Reviews, 75(5), 050801.
+* **Lu Lu**#, Sophie Leanza#, Jize Dai#, Xiaohao Sun, Ruike Renee Zhao*. 2023. Easy snap-folding of hexagonal ring origami by geometric modifications. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2022.105142), 171, 105142.
+* **Lu Lu**, Jize Dai, Sophie Leanza, John W. Hutchinson, Ruike Renee Zhao*. 2023. Multiple equilibrium states of a curved-sided hexagram: Part II-Transitions between states. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2023.105407), 180, 105407.
+* **Lu Lu**, Sophie Leanza, Luyuan Ning, Ruike Renee Zhao*. 2026. 2D-to-3D transformation of ring origami via snap-folding instabilities. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2025.106404), 206, 106404.
+* Luyuan Ning#, **Lu Lu**#, Sophie Leanza, Ruike Renee Zhao*. 2026. Physics-informed neural network-enabled forward prediction and inverse design of ring origami. [*Advanced Science*](http://doi.org/10.1002/advs.76194), e76194.
+* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2023. Origami with rotational symmetry: A review on their mechanics and design. [*Applied Mechanics Reviews*](https://doi.org/10.1115/1.4056637), 75(5), 050801.
   
 ---
 
@@ -49,5 +49,5 @@ Intelligent soft materials are a class of stimuli-responsive materials capable o
 
 **Representative publications**
 
-* **Lu Lu**, Shuai Wu, Ruike Renee Zhao*. 2024. *Mechanics of magnetic-shape memory polymers*. Journal of the Mechanics and Physics of Solids, 190, 105742
-* **Lu Lu**, Jay Sim, Ruike Renee Zhao*. 2024. *Mechanics of hard-magnetic soft materials: A review*. Mechanics of Materials, 189, 104874.
+* **Lu Lu**, Shuai Wu, Ruike Renee Zhao*. 2024. Mechanics of magnetic-shape memory polymers. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2024.105742), 190, 105742
+* **Lu Lu**, Jay Sim, Ruike Renee Zhao*. 2024. Mechanics of hard-magnetic soft materials: A review. [*Mechanics of Materials*](https://doi.org/10.1016/j.mechmat.2023.104874), 189, 104874.
