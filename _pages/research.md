@@ -3,7 +3,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
---------------------
+---
 
 My research focuses on nonlinear mechanics, mechanical instabilities, intelligent soft materials, and instability-guided design of shape-morphing structures. I combine theoretical modeling, numerical simulations, and experiments to understand complex deformation mechanisms and to guide the design of functional mechanical systems.
 
