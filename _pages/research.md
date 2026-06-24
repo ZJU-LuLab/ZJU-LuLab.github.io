@@ -17,7 +17,7 @@ Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understa
 
 **Representative publications**
 
-* **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao. 2024. *Multistability of segmented rings by programming natural curvature*. Proceedings of the National Academy of Science, 121(31), e2405744121.
+* **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao*. 2024. [*Multistability of segmented rings by programming natural curvature*](https://doi.org/10.1073/pnas.2405744121). ***Proceedings of the National Academy of Science***, 121(31), e2405744121.
 * **Lu Lu**, Jize Dai, Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson. 2023. *Multiple equilibrium states of a curved-sided hexagram: Part I-Stability of states*. Journal of the Mechanics and Physics of Solids, 180, 105406.
 * **Lu Lu**, Sophie Leanza, Yang Liu, Ruike Renee Zhao*. 2025. *Buckling and post-buckling of cylindrical shells under combined torsional and axial loads*. European Journal of Mechanics-A/Solids, 112, 105653.
 * **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2026. *Mechanical instabilities: From failure mechanism to functionality*. Applied Mechanics Reviews, 78(3), 030801.
