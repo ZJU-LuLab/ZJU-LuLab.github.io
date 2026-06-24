@@ -9,22 +9,6 @@ Our research combines theoretical modeling, numerical simulation, and experiment
 
 ---
 
-## Nonlinear Instabilities of Slender Elastic Structures
-
-<img src="/images/research/slender-instabilities.jpg" alt="Slender elastic structures" style="width:100%; max-width:700px;">
-
-Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understanding the underlying mechanics of these behaviors is critical not only for predicting structural instability, but also for harnessing instabilities to achieve multifunctional structural design. This research topic aims to investigate nonlinear instabilities in various slender elastic structures such as rods, rings, plates, and shells. Selected topics include elastic stability of segmented rings with natural curvature (e.g., curved-sided hexagonal rings and polygonal rings), twisting bifurcation of elastic rods, and buckling and post-buckling of cylindrical shells.
-
-**Representative publications**
-
-* **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao*. 2024. Multistability of segmented rings by programming natural curvature. [*Proceedings of the National Academy of Science*](https://doi.org/10.1073/pnas.2405744121), 121(31), e2405744121.
-* **Lu Lu**, Jize Dai, Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson*. 2023. Multiple equilibrium states of a curved-sided hexagram: Part I-Stability of states. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2023.105406), 180, 105406.
-* **Lu Lu**, Sophie Leanza, Yang Liu, Ruike Renee Zhao*. 2025. Buckling and post-buckling of cylindrical shells under combined torsional and axial loads. [*European Journal of Mechanics-A/Solids*](https://doi.org/10.1016/j.euromechsol.2025.105653), 112, 105653.
-* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2026. Mechanical instabilities: From failure mechanism to functionality. [*Applied Mechanics Reviews*](https://doi.org/10.1115/1.4069259), 78(3), 030801.
-* Sophie Leanza#, Jeseung Lee#, **Lu Lu**, Ruike Renee Zhao*. 2026. Elastic rod origami (RodOri) for programming static and dynamic mechanical properties. [*Science Advances*](https://doi.org/10.1126/sciadv.aed1774), 12(19), aed1774.
-
----
-
 ## Instability-Guided Design of Shape-Morphing Structures
 
 <img src="/images/research/shape-morphing-structures.jpg" alt="Shape-morphing structures" style="width:100%; max-width:700px;">
@@ -39,6 +23,22 @@ Shape-morphing structures have attracted extensive attention for a wide range of
 * Luyuan Ning#, **Lu Lu**#, Sophie Leanza, Ruike Renee Zhao*. 2026. Physics-informed neural network-enabled forward prediction and inverse design of ring origami. [*Advanced Science*](http://doi.org/10.1002/advs.76194), e76194.
 * **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2023. Origami with rotational symmetry: A review on their mechanics and design. [*Applied Mechanics Reviews*](https://doi.org/10.1115/1.4056637), 75(5), 050801.
   
+---
+
+## Nonlinear Instabilities of Slender Elastic Structures
+
+<img src="/images/research/slender-instabilities.jpg" alt="Slender elastic structures" style="width:100%; max-width:700px;">
+
+Slender elastic structures exhibit rich nonlinear mechanical behaviors. Understanding the underlying mechanics of these behaviors is critical not only for predicting structural instability, but also for harnessing instabilities to achieve multifunctional structural design. This research topic aims to investigate nonlinear instabilities in various slender elastic structures such as rods, rings, plates, and shells. Selected topics include elastic stability of segmented rings with natural curvature (e.g., curved-sided hexagonal rings and polygonal rings), twisting bifurcation of elastic rods, and buckling and post-buckling of cylindrical shells.
+
+**Representative publications**
+
+* **Lu Lu**, Sophie Leanza, Jize Dai, John W. Hutchinson, Ruike Renee Zhao*. 2024. Multistability of segmented rings by programming natural curvature. [*Proceedings of the National Academy of Science*](https://doi.org/10.1073/pnas.2405744121), 121(31), e2405744121.
+* **Lu Lu**, Jize Dai, Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson*. 2023. Multiple equilibrium states of a curved-sided hexagram: Part I-Stability of states. [*Journal of the Mechanics and Physics of Solids*](https://doi.org/10.1016/j.jmps.2023.105406), 180, 105406.
+* **Lu Lu**, Sophie Leanza, Yang Liu, Ruike Renee Zhao*. 2025. Buckling and post-buckling of cylindrical shells under combined torsional and axial loads. [*European Journal of Mechanics-A/Solids*](https://doi.org/10.1016/j.euromechsol.2025.105653), 112, 105653.
+* **Lu Lu**, Sophie Leanza, Ruike Renee Zhao*. 2026. Mechanical instabilities: From failure mechanism to functionality. [*Applied Mechanics Reviews*](https://doi.org/10.1115/1.4069259), 78(3), 030801.
+* Sophie Leanza#, Jeseung Lee#, **Lu Lu**, Ruike Renee Zhao*. 2026. Elastic rod origami (RodOri) for programming static and dynamic mechanical properties. [*Science Advances*](https://doi.org/10.1126/sciadv.aed1774), 12(19), aed1774.
+
 ---
 
 ## Multiphysics-Coupled Large Deformation of Intelligent Soft Materials
