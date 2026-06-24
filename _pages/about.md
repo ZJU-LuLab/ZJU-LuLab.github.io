@@ -14,6 +14,6 @@ His research focuses on solid mechanics, with an emphasis on mechanical instabil
 # Research Interests
 
 - Mechanical instabilities, including buckling, post-buckling, and snap-buckling
-- Intelligent soft materials, including magnetic soft materials, shape memory polymers, and liquid crystal elastomers 
 - Elastic rods, rings, plates, and shells
 - Deployable, reconfigurable, and shape-morphing structures
+- Intelligent soft materials, including magnetic soft materials, shape memory polymers, and liquid crystal elastomers 
